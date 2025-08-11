@@ -1,0 +1,30 @@
+Questão 1
+Protocolo: https
+Dominio: www.nytimes.com
+Caminho: /2023/08/28/science/birds-flycatcher-migration.html
+Parâmetros: Nenhum parâmetro está presente nessa URL
+
+Questão 2
+
+O "Tripé da Web": HTML, CSS e JavaScript
+
+HTML:
+Propósito: Estrutura o conteúdo da página.
+
+Define títulos, parágrafos, imagens, links, tabelas, etc.
+
+É como o “esqueleto” da página.
+
+CSS:
+Propósito: Define o estilo visual.
+
+Controla cores, fontes, espaçamento, layout.
+
+É como a “roupa” da página — deixa tudo bonito e organizado.
+
+JavaScript:
+Propósito: Adiciona interatividade e dinamismo.
+
+Permite ações como cliques, animações, validações de formulário.
+
+É como o “cérebro” da página — faz ela reagir ao usuário.
