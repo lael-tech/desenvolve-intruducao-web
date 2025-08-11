@@ -1,0 +1,35 @@
+Questão 1
+
+Máquina cliente:
+
+É o dispositivo que faz requisições, como seu computador ou celular.
+
+Por exemplo, quando você acessa um site, seu navegador envia uma solicitação para o servidor que hospeda esse site.
+
+O cliente inicia a comunicação.
+
+Máquina servidor:
+
+É o computador que recebe as requisições e responde com os dados solicitados.
+
+Ele armazena páginas web, arquivos, bancos de dados, etc.
+
+O servidor está sempre “esperando” por pedidos dos clientes.
+
+
+Questão 2
+
+Domínios são nomes amigáveis que usamos para acessar sites. Eles substituem os endereços IP, que são sequências numéricas difíceis de memorizar.
+
+Importância dos domínios:
+
+Facilitam o acesso à informação.
+
+Tornam a navegação mais intuitiva.
+
+Permitem a criação de identidades digitais (como empresas com seus próprios sites).
+
+
+Questão 3
+
+142.250.190.68
