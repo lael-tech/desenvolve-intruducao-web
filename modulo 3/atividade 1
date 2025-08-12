@@ -1,0 +1,24 @@
+Questão 1
+tags: indicam ao navegador como o conteúdo deve ser exibido.
+corpo: é o conteúdo que está entre a tag de abertura e fechamento.
+atributos: são usados para fornecer informações adicionais sobre um elemento HTML.
+
+Questão 2
+Um elemento vazio em HTML é um tipo especial de elemento que não possui conteúdo interno e,
+por isso, não precisa de uma tag de fechamento. Sua principal função é realizar ações ou 
+inserir recursos na página sem envolver texto ou outros elementos.
+
+Esses elementos são usados para:
+Inserir recursos (como imagens ou campos de formulário)
+Criar quebras visuais (como linhas ou espaços)
+Definir metadados ou comportamentos da página
+Como eles não têm conteúdo entre uma tag de abertura e fechamento, são escritos em uma única linha.
+
+Exemplos: <br> Insere uma quebra de linha no texto
+          <img> Exibe uma imagem na pagina, usando atributos como src e alt
+
+Questão 4
+a) Seus vizinhos são: <header> e <footer>
+b) Os ancestrais de <ul> são: <nav>, <header>, <body> e <html>
+c) Os elementos contidos diretamente dentro de <header> são: <h1> e <nav>
+d) O nivel de profundidade é 6.
