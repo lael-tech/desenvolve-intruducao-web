@@ -1,0 +1,6 @@
+Questão 1
+<head>: Aemazena metadados e connfigurações da pagina. Não é exibido diretamente ao usuário.
+Exemplos de uso: <title>, <meta>, <link>, <style>.
+
+<body>: Contém o conteúdo visível da página. Tudo o que o usuário vê.
+Exemplos de uso: <p>, <h1>, <img>, <a>, <div>.
