@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+    <meta charset="UTF-8">
+    <title>Lionel Messi</title>
+    <style>
+        body {font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header {background-color: #222; color: white; text-align: center; padding: 20px; }
+        header img {width: 150px; border-radius: 25%; }
+        main {padding: 20px;}
+        section {margin-bottom: 30px;}
+        aside {background-color: #f4f4f4; padding: 15px; border-left: 5px solid #ccc;}
+        footer {background-color: #222; color: white; text-align: center; padding: 10px;}
+        table {width: 100%; border-collapse: collapse;}
+        th, td {border: 1px solid #ccc; padding: 8px; text-align: left;}
+        th {background-color: #eee;}
+    </style>
+    </head>
+    <body>
+    <header>
+      <h1>Lionel Messi</h1>
+      <img src="messi-destaque.jpg" alt="Imagem de destaque de Lionel Messi">
+    </header>
+    
+    <main>
+        <section>
+            <h2>Apresentação</h2>
+            <p><strong>Lionel Messi</strong> considerado um dos <em>maiores jogadores de todos os tempos</em>, Messi se destaca por sua <em>visão de jogo,dribles refinados, finalização precisa</em> e <em> criatividade</em>.</p>
+        </section>
+        
+        <section>
+            <h2>Carreira</h2>
+            <h3>Infância</h3>
+            <p>Desde muito pequeno, Messi já mostrava talento com a bola nos pés. Começou a jogar pelo <strong>clube local Grandoli</strong>, treinado pelo pai Jorge Messi.</p>
+            <p>Aos <strong>7anos</strong>, ingressou nas categorias de base do <strong>Newell's Old Boys</strong>, onde marcou mais de 500 gols em seis anos nas equipes juvenis.</p>
+            <p>Ainda criança, foi diagnosticado com <u>deficiência no hormônio do crescimento</u>, o que ameaçou sua continuidade no futebol. O tratamento era caro e sua família não tinha recursos para custear</p>
+            <h3>Mudança para o Barcelona</h3>
+            <p>Em <strong>2000</strong>, aos 13 anos, Messi fez um teste no <strong>FC Barcelona</strong>.O clube se impressionou tanto que ofereceu custear todo o tratamento médico e levá-lo para a Espanha.A famosa história é que seu primeiro contrato foi assinado <strong>em um guardanapo</strong> pelo então diretor Carles Rexach, pois não havia papel disponível no momento.</p>
+            <h3>Formação na La Masia</h3>
+            <p>Messi entrou na famosa academia de jovens do Barcelona, <strong>La Masia</strong>, e rapidamente subiu de categoria, destacando-se pela habilidade e inteligência em jogo.</p>
+            <p>Em <strong>2003</strong>, com apenas 16 anos, estreou em um amistoso contra o Porto, treinado por José Mourinho.</p>
+            <h3>Estreia profissional</h3>
+            <ul>
+                <li><strong>Primeiro jogo oficial:</strong> 16 de outubro de 2004, contra o Espanyol, pela La Liga, aos 17 anos.</li>
+                <li><strong>Primeiro gol:</strong> 1° de maio de 2005, contra o Albacete, recebendo assistência de Ronaldinho Gaúcho.</li>
+            </ul>
+            <h3>Ascensão</h3>
+            <p>Logo se tornou parte do time principal ao lado de astros como Ronaldinho, Eto's e Xavi. Ganhou seu <strong>primeiro título da Champions League</strong> em 2006, ainda muito jovem, e continuou evoluindo até se tornar o principal jogador do clube a partir de 2008/2009</p>
+        </section>
+        <section>
+            <h2>Conquistas</h2>
+            <table>
+                <tr>
+                    <th>Conquista</th>
+                    <th>Ano</th>
+                </tr>
+                <tr>
+                    <th>La Liga</th>
+                    <th>2004, 2005, 2008, 2009, 2010, 2012, 2014, 2015, 2017, 2018.</th>
+                </tr>
+                <tr>
+                    <th>Supercopa da Espanha</th>
+                    <th>2005, 2006, 2009, 2010, 2011, 2013, 2016, 2018.</th>
+                </tr>
+                <tr>
+                    <th>Champions League</th>
+                    <th>2005, 2008, 2010, 2014.</th>
+                </tr>
+                <tr>
+                    <th>Copa do Rei</th>
+                    <th>2008, 2011, 2014, 2015, 2016, 2017, 2020.</th>
+                </tr>
+                <tr>
+                    <th>Supercopa da UEFA</th>
+                    <th>2009, 2011, 2015.</th>
+                </tr>
+                <tr>
+                    <th>Copa do Mundo de Clubes da FIFA</th>
+                    <th>2009, 2011, 2015</th>
+                </tr>
+                <tr>
+                    <th>Ligue1</th>
+                    <th>2021, 2022</th>
+                </tr>
+                <tr>
+                    <th>Supercopa da França</th>
+                    <th>2022</th>
+                </tr>
+                <tr>
+                    <th>Leagues Cup</th>
+                    <th>2023</th>
+                </tr>
+                <tr>
+                    <th>MLS Supporters'Shield</th>
+                    <th>2024</th>
+                </tr>
+                <tr>
+                    <th>Copa do Mundo Sub-20</th>
+                    <th>2005</th>
+                </tr>
+                <tr>
+                    <th>Medalha de ouro Olímpica</th>
+                    <th>2008</th>
+                </tr>
+                <tr>
+                    <th>Copa América</th>
+                    <th>2021, 2024</th>
+                </tr>
+                <tr>
+                    <th>Finalissima (CONMEBOL-UEFA)</th>
+                    <TH>2022</TH>
+                </tr>
+                <tr>
+                    <th>Copa do Mundo FIFA</th>
+                    <th>2022</th>
+                </tr>
+                <tr>
+                    <th>Bola de ouro</th>
+                    <th>2009, 2010, 2011, 2012, 2015, 2019, 2021, 2023.</th>
+                </tr>
+                <tr>
+                    <th>The Best FIFA</th>
+                    <th>2022, 2023.</th>
+                </tr>
+                <tr>
+                    <th>Chuteira de Ouro na Europa</th>
+                    <th>2009, 2010, 2011, 2012, 2013, 2016, 2017, 2018, 2019.</th>
+                </tr>
+                <tr>
+                    <th>FIFA world Cup Golden Ball</th>
+                    <th>2014, 2022.</th>
+                </tr>
+                <tr>
+                    <th>FIFA Club World Ball</th>
+                    <th>2009, 2011.</th>
+                </tr>
+                <tr>
+                    <th>Melhor jogador da UEFA</th>
+                    <th>2010, 2011, 2014, 2015.</th>
+                </tr>
+                <tr>
+                    <th>IFFHS World's Best Playmaker</th>
+                    <th>2015, 2016, 2017, 2019, 2022.</th>
+                </tr>
+                <tr>
+                    <th>Laureus World Sportsman of the Year</th>
+                    <th>2020, 2023.</th>
+                </tr>
+            </table>
+        </section>
+        <section>
+            <h2>Legado</h2>
+            <p>Lionel Messi deixa um legado que transcende o futebol: considerado o jogador mais completo da era moderna, uniu técnica impecável, visão de jogo e consistência histórica, quebrando recordes como maior campeão da história (46 títulos) e maior vencedor da Bola de Ouro (8). Símbolo de superação por vencer um problema hormonal na infância, construiu uma carreira marcada pela lealdade ao Barcelona, tornou-se ícone nacional ao conquistar a Copa América 2021 e a Copa do Mundo 2022, e inspirou milhões pelo mundo com sua humildade e dedicação. Além de elevar o valor e a popularidade do esporte por onde passou, como na MLS com o Inter Miami, seu impacto econômico, cultural e emocional o consagra como um dos maiores e mais influentes atletas de todos os tempos.</p>
+        </section>
+    </main>
+        <aside>
+            <h2>Ficha de Identificaçãp</h2>
+            <img src="messi-rodape.jpg" alt="Imagem de destaque de Lionel Messi" width="100">
+            <p><strong>Nome completo:</strong>Lionel Andrés Messi</p>
+            <p><strong>Data de nascimento:</strong>24 de junho de 1987</p>
+            <p><strong>Local de nascimento:</strong>Rosario, Argentina</p>
+        </aside>
+        <footer>
+            <p>Referências:</p>
+            <ul>
+                <li><a href="https://pt.wikipedia.org/wiki/Lionel_Messi" target="_blank">Wikipedia - Lionel Messi</a></li>
+                <li><a href="https://messi.com/fundacion-leo-messi/" target="_blank">Fundação Leo Messi</a></li>
+            </ul>
+            <p><em>Página criada em agosto de 2025</em></p>
+        </footer>
+    </body>
+</html>
