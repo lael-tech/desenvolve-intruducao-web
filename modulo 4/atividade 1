@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Exemplo de Estilos CSS</title>
+  <style>
+    /* 1. Estilo para links */
+    a {
+      color: red;
+    }
+
+    a:hover {
+      color: rgb(188, 241, 137);
+    }
+
+    /* 2. Estilo para parágrafos */
+    p {
+      font-family: Arial, sans-serif;
+    }
+
+    h1 + p {
+      font-weight: bold;
+    }
+
+    /* 3. Estilo para a classe .destaque */
+    .destaque {
+      font-family: Arial, sans-serif;
+    }
+
+    p.destaque {
+      font-weight: bold;
+    }
+
+    strong.destaque {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Bem-vindo ao Exemplo</h1>
+  <p>Este parágrafo está em negrito, pois está logo após o h1.</p>
+  <p>Este parágrafo não está em negrito.</p>
+
+  <a href="#">Clique em mim!</a>
+
+  <p class="destaque">Parágrafo com classe destaque = negrito</p>
+  <strong class="destaque">Texto "strong" com classe destaque = vermelho</strong>
+
+</body>
+</html>
