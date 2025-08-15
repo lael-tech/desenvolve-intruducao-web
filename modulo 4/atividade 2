@@ -1,0 +1,20 @@
+Questão 1
+a) html h1 = {font-size: 2rem;}
+              2rem = 2 x 20px = 40px
+b) h1 > .principal {font-size: 1.4em;}
+                    1.4em = 1.4 x 40px = 56px
+c)html .secundario {font-size = 1.4rem;}
+                    1.4rem = 1.4 x 20px = 28px
+
+Questão 2
+15% mais clara
+*R: 219 x 1.15 = 252
+*G: 78 x 1.15 = 90
+*B: 68 x 1.15 = 78
+Resultado: rgb(252, 90, 78)
+
+15% mais escura
+*R: 219 x 0.85 = 186
+*G: 78 x 0.85 = 66
+*B: 68 x 0.85 = 58
+Resultado: rgb(186, 66, 58)
