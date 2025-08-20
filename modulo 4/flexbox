@@ -1,0 +1,44 @@
+/* 1. Rodapé da seção principal */
+.main-footer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+.main-footer a {
+  flex: 0 0 120px; /* Tamanho fixo para todos os links */
+  text-align: center;
+  padding: 0.5em;
+  box-sizing: border-box;
+}
+
+/* 2. Seção de benefícios */
+.beneficios {
+  display: flex;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+.beneficios .texto {
+  width: 70%;
+}
+
+.beneficios .titulo {
+  width: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 3. Seção de participação */
+.participacao {
+  display: flex;
+  border-bottom: 1px solid #ccc;
+}
+
+.participacao .item {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify
